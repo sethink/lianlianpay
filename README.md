@@ -8,7 +8,7 @@
 ## 安装
 
 ```shell
-$ composer require achais/lianlianpay:dev-master -vvv
+$ composer require sethink/lianlianpay:dev-master -vvv
 ```
 
 ## 使用
